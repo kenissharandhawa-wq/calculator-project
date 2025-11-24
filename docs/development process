@@ -1,0 +1,17 @@
+# Development Process
+
+**Step-by-step how I built it:**
+
+1. Created the project folder and initialized Git
+2. Wrote the main calculator loop using `while True`
+3. Used `input().split()` to separate number → operator → number
+4. Added `try-except` to catch invalid numbers
+5. Created separate checks for each operator (+ - * /)
+6. Added special check for division by zero
+7. Added clear error messages and 'quit' option
+8. Tested many times in VS Code terminal
+9. Made multiple meaningful Git commits
+10. Added README.md and screenshots
+11. Created this docs folder
+
+Tools used: Visual Studio Code, Git, GitHub

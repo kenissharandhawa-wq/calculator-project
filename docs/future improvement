@@ -1,0 +1,9 @@
+# Future Improvements
+
+Ideas to make it even better later:
+- Add a graphical user interface (GUI) using Tkinter or PyQt
+- Add more operations: square root, percentage, power (^)
+- Save calculation history to a file
+- Make it a web calculator using HTML/CSS/JavaScript
+- Add scientific mode (sin, cos, log, etc.)
+- Support keyboard arrows to edit previous input

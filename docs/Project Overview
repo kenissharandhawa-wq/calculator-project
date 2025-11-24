@@ -1,0 +1,15 @@
+# Project Overview
+
+This is a simple console-based calculator built in Python for **Assignment 4** of Computer Science Fundamentals & Career Pathways.
+
+**Features:**
+- Performs addition, subtraction, multiplication, and division
+- Supports decimal numbers
+- Prevents division by zero
+- Gives clear error messages
+- Runs continuously until the user types 'quit'
+
+**Real-world use:** Basic calculators are used in banking apps, scientific tools, shopping apps, etc.
+
+Made by: Kenisha Randhawa  
+B.Tech CSE (AI & ML) – Semester 1
